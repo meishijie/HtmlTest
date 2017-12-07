@@ -1,0 +1,3 @@
+window.Global = {
+    allfoods: null
+};
